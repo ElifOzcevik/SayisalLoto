@@ -1,0 +1,25 @@
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\bin\Debug\ntp3-2o-20170413-1.exe
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\bin\Debug\ntp3-2o-20170413-1.pdb
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3_2o_20170413_1.Form1.resources
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3_2o_20170413_1.Properties.Resources.resources
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.csproj.GenerateResource.Cache
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.exe
+c:\users\matlab\documents\visual studio 2010\Projects\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.pdb
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.pdb
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\bin\Debug\ntp3-2o-20170413-1.exe
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\bin\Debug\ntp3-2o-20170413-1.pdb
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3_2o_20170413_1.Form1.resources
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3_2o_20170413_1.Properties.Resources.resources
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.pdb
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\bin\Debug\ntp3-2o-20170413-1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\bin\Debug\ntp3-2o-20170413-1.pdb
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3_2o_20170413_1.Form1.resources
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3_2o_20170413_1.Properties.Resources.resources
+C:\Users\Elift Özçevik\Desktop\GİTHUB\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.csproj.GenerateResource.Cache
+C:\Users\Elift Özçevik\Desktop\BAK\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.exe
+C:\Users\Elift Özçevik\Desktop\BAK\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.pdb
+C:\Users\Elift Özçevik\Desktop\GİTHUB\+\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\+\ntp3-2o-20170413-1\ntp3-2o-20170413-1\obj\x86\Debug\ntp3-2o-20170413-1.pdb
